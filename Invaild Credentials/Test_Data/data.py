@@ -1,0 +1,8 @@
+
+# data.pylogin
+class Subash_Data:
+    url = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+    username = 'Admin'
+    password = "ad123"
+
+
